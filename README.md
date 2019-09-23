@@ -1,1 +1,1 @@
-# Random-Forest-deploy-with-Flask
+# Random Forest Model for Credit Scoring
