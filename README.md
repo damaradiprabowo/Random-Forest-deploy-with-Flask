@@ -17,4 +17,5 @@ The used model is Random Forest with 82% of accuracy. The model are saved on a f
 
 ## 4. Testing
 As explained before, we use Postman for the testing. The way how to test is showed on the picture below.
+![postman](postman.JPG)
 
